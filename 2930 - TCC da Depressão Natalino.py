@@ -12,5 +12,3 @@ elif a <= b and b - a < 3:
         print("Fail! Entao eh nataaaaal!")
 else:
     print("Eu odeio a professora!")
-
-    
