@@ -13,5 +13,6 @@
 *.pif
 *.vb
 *.wsf
+*.txt
 
 # End of https://www.toptal.com/developers/gitignore/api/executable
